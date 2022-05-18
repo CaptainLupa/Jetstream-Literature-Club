@@ -1,0 +1,10 @@
+*.rpyc
+audio.rpa
+fonts.rpa
+images.rpa
+scripts.rpa
+*.rpa
+cache/
+saves/
+.git/
+firstrun
